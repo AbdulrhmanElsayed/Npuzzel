@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abdul\\OneDrive\\Desktop\\NPuzzle\\NPuzzle\\NPuzzle.csproj": {}
+    "C:\\Users\\abdul\\OneDrive\\Desktop\\Npuzzel\\NPuzzle\\NPuzzle.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abdul\\OneDrive\\Desktop\\NPuzzle\\NPuzzle\\NPuzzle.csproj": {
+    "C:\\Users\\abdul\\OneDrive\\Desktop\\Npuzzel\\NPuzzle\\NPuzzle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abdul\\OneDrive\\Desktop\\NPuzzle\\NPuzzle\\NPuzzle.csproj",
+        "projectUniqueName": "C:\\Users\\abdul\\OneDrive\\Desktop\\Npuzzel\\NPuzzle\\NPuzzle.csproj",
         "projectName": "NPuzzle",
-        "projectPath": "C:\\Users\\abdul\\OneDrive\\Desktop\\NPuzzle\\NPuzzle\\NPuzzle.csproj",
+        "projectPath": "C:\\Users\\abdul\\OneDrive\\Desktop\\Npuzzel\\NPuzzle\\NPuzzle.csproj",
         "packagesPath": "C:\\Users\\abdul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abdul\\OneDrive\\Desktop\\NPuzzle\\NPuzzle\\obj\\",
+        "outputPath": "C:\\Users\\abdul\\OneDrive\\Desktop\\Npuzzel\\NPuzzle\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abdul\\AppData\\Roaming\\NuGet\\NuGet.Config",

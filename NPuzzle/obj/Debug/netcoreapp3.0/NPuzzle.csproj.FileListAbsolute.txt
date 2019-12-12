@@ -8,3 +8,14 @@ C:\Users\abdul\OneDrive\Desktop\NPuzzle\NPuzzle\obj\Debug\netcoreapp3.0\NPuzzle.
 C:\Users\abdul\OneDrive\Desktop\NPuzzle\NPuzzle\obj\Debug\netcoreapp3.0\NPuzzle.AssemblyInfo.cs
 C:\Users\abdul\OneDrive\Desktop\NPuzzle\NPuzzle\obj\Debug\netcoreapp3.0\NPuzzle.dll
 C:\Users\abdul\OneDrive\Desktop\NPuzzle\NPuzzle\obj\Debug\netcoreapp3.0\NPuzzle.pdb
+C:\Users\abdul\OneDrive\Desktop\Npuzzel\NPuzzle\bin\Debug\netcoreapp3.0\NPuzzle.exe
+C:\Users\abdul\OneDrive\Desktop\Npuzzel\NPuzzle\bin\Debug\netcoreapp3.0\NPuzzle.deps.json
+C:\Users\abdul\OneDrive\Desktop\Npuzzel\NPuzzle\bin\Debug\netcoreapp3.0\NPuzzle.runtimeconfig.json
+C:\Users\abdul\OneDrive\Desktop\Npuzzel\NPuzzle\bin\Debug\netcoreapp3.0\NPuzzle.runtimeconfig.dev.json
+C:\Users\abdul\OneDrive\Desktop\Npuzzel\NPuzzle\bin\Debug\netcoreapp3.0\NPuzzle.dll
+C:\Users\abdul\OneDrive\Desktop\Npuzzel\NPuzzle\bin\Debug\netcoreapp3.0\NPuzzle.pdb
+C:\Users\abdul\OneDrive\Desktop\Npuzzel\NPuzzle\obj\Debug\netcoreapp3.0\NPuzzle.csprojAssemblyReference.cache
+C:\Users\abdul\OneDrive\Desktop\Npuzzel\NPuzzle\obj\Debug\netcoreapp3.0\NPuzzle.AssemblyInfoInputs.cache
+C:\Users\abdul\OneDrive\Desktop\Npuzzel\NPuzzle\obj\Debug\netcoreapp3.0\NPuzzle.AssemblyInfo.cs
+C:\Users\abdul\OneDrive\Desktop\Npuzzel\NPuzzle\obj\Debug\netcoreapp3.0\NPuzzle.dll
+C:\Users\abdul\OneDrive\Desktop\Npuzzel\NPuzzle\obj\Debug\netcoreapp3.0\NPuzzle.pdb
